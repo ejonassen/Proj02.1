@@ -8,6 +8,8 @@
             error_reporting(0);
             //words taken from http://www.paulnoll.com/Books/Clear-English/English-3000-common-words.html
             //formatting courtesy of http://preshing.com/20110811/xkcd-password-generator/
+            //Some parts based on http://www.mytsoftware.com/dailyproject/PassGen/entropy.js, copyright 2003 David Finch.
+            //(Just the words, seperated by commas)
             $words = Array(
                 "ability","able","aboard","about","above","accept","accident","according",
                 "account","accurate","acres","across","act","action","active","activity",
